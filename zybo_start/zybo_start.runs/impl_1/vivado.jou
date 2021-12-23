@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:07 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Dec 23 16:42:30 2021
+# Process ID: 145295
+# Current directory: /mnt/media/Zybo_Projects/Zybo_Z7/Adelaida/zybo_start/zybo_start.runs/impl_1
+# Command line: vivado -log design_1_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source design_1_wrapper.tcl -notrace
+# Log file: /mnt/media/Zybo_Projects/Zybo_Z7/Adelaida/zybo_start/zybo_start.runs/impl_1/design_1_wrapper.vdi
+# Journal file: /mnt/media/Zybo_Projects/Zybo_Z7/Adelaida/zybo_start/zybo_start.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source design_1_wrapper.tcl -notrace
